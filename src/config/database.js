@@ -1,8 +1,8 @@
 module.exports = {
    dialect: 'mysql',
-   host: 'ioffertas.club',
-   username: 'cesar',
-   password: '387060cesaR$',
+   host: 'locahost',
+   username: 'root',
+   password: '123456',
    database: 'orm',
    define: {
      timestamps: true,
